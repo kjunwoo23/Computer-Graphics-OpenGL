@@ -1,0 +1,3 @@
+C:\Users\kjunwoo23\source\repos\HelloGL\Debug\HelloGL.exe
+C:\Users\kjunwoo23\Documents\GitHub\Computer-Graphics-OpenGL\HelloGL\Debug\HelloGL.exe
+C:\Users\kjunwoo23\Documents\GitHub\Computer-Graphics-OpenGL\과제물\과제물 1. 파도 평면\Debug\HelloGL.exe
