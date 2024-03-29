@@ -1,2 +1,0 @@
-C:\Users\kjunwoo23\source\repos\HelloGL\Debug\HelloGL.exe
-C:\Users\kjunwoo23\Documents\GitHub\Computer-Graphics-OpenGL\HelloGL\Debug\HelloGL.exe
