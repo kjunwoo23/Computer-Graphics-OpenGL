@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\USERS\\KJUNWOO23\\DOCUMENTS\\GITHUB\\COMPUTER-GRAPHICS-OPENGL\\\uC2E4\uC2B5\\19. TEXTURE PRACTICE\\MYSPHERE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:MYSPHERE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\vphong.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:vphong.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\fphong.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:fphong.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySphere.h",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\MySphere.h",
+              "RelativeDocumentMoniker": "MySphere.h",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\MySphere.h",
+              "RelativeToolTip": "MySphere.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T12:06:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vphong.glsl",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\vphong.glsl",
+              "RelativeDocumentMoniker": "vphong.glsl",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\vphong.glsl",
+              "RelativeToolTip": "vphong.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T12:03:24.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fphong.glsl",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\fphong.glsl",
+              "RelativeDocumentMoniker": "fphong.glsl",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\fphong.glsl",
+              "RelativeToolTip": "fphong.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T12:03:08.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\19. Texture Practice\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T12:03:00.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

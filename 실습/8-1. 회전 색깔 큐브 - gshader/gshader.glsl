@@ -19,7 +19,7 @@ void main()
 	    gPosition = position[i];
         EmitVertex();
     }
-
+    
 	for (int i = gl_in.length() - 1; i >= 0; i--)
     {
         gl_Position = gl_in[i].gl_Position * 0.7f;

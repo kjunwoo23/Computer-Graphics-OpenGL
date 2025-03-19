@@ -26,6 +26,12 @@
     <None Include="vshader.glsl">
       <Filter>리소스 파일</Filter>
     </None>
+    <None Include="fphong.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="vphong.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_negx.tga">

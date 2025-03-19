@@ -4,13 +4,13 @@
 class STGA
 {
 public:
-	STGA()
-	{
-		data = (unsigned char*)0;
-		width = 0;
-		height = 0;
-		byteCount = 0;
-	}
+    STGA()
+    {
+        data = (unsigned char*)0;
+        width = 0;
+        height = 0;
+        byteCount = 0;
+    }
 
 	~STGA() { delete[] data; data = 0; }
 
@@ -22,22 +22,22 @@ public:
 	unsigned char* data;
 
 
-	bool loadTGA(const char* filename)
+	bool loadTGA(const char *filename)
 	{
-		STGA& tgaFile = *this;
-
-		FILE* file;
+		STGA & tgaFile = *this;
+		
+		FILE *file;
 		unsigned char type[4];
 		unsigned char info[6];
 
-		file = fopen(filename, "rb");
+			file = fopen(filename, "rb");
 
-		if (!file)
+			if (!file)
 			return false;
 
-		fread(&type, sizeof(char), 3, file);
-		fseek(file, 12, SEEK_SET);
-		fread(&info, sizeof(char), 6, file);
+		fread (&type, sizeof (char), 3, file);
+		fseek (file, 12, SEEK_SET);
+		fread (&info, sizeof (char), 6, file);
 
 		//image type either 2 (color) or 3 (greyscale)
 		if (type[1] != 0 || (type[2] != 2 && type[2] != 3))
@@ -69,3 +69,5 @@ public:
 		return true;
 	}
 };
+
+

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\fphong.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:fphong.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\earthmap_cld.tga||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4C7C54D2-8409-47A1-87BF-DA9B5D6AD0A6}|HelloGL.vcxproj|solutionrelative:earthmap_cld.tga||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "earthmap_cld.tga",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\earthmap_cld.tga",
+              "RelativeDocumentMoniker": "earthmap_cld.tga",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\earthmap_cld.tga",
+              "RelativeToolTip": "earthmap_cld.tga",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-08T12:01:28.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fphong.glsl",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\fPhong.glsl",
+              "RelativeDocumentMoniker": "fPhong.glsl",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\fPhong.glsl",
+              "RelativeToolTip": "fPhong.glsl",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvykAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T12:00:44.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\kjunwoo23\\Documents\\GitHub\\Computer-Graphics-OpenGL\\\uC2E4\uC2B5\\20. Multi Texture Practice\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv74AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T12:00:33.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -144,7 +144,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="fphong.glsl" />
     <None Include="fshader.glsl" />
+    <None Include="vphong.glsl" />
     <None Include="vshader.glsl" />
   </ItemGroup>
   <ItemGroup>

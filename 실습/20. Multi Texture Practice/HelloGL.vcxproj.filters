@@ -26,30 +26,30 @@
     <None Include="vshader.glsl">
       <Filter>리소스 파일</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_negx.tga">
+    <None Include="fphong.glsl">
       <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_negy.tga">
+    </None>
+    <None Include="vphong.glsl">
       <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_negz.tga">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_posx.tga">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_posy.tga">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\Desktop\대학 파일\3학년 2학기\컴퓨터그래픽스\5차 과제\homework5\RaytracerStartingCode\RaytracerStartingCode\museum_posz.tga">
-      <Filter>리소스 파일</Filter>
-    </Image>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyColorCube.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="earthmap_light.tga">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="earthmap_spec.tga">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="earthmap_cld.tga">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="earthmap_dif.tga">
+      <Filter>리소스 파일</Filter>
+    </Image>
   </ItemGroup>
 </Project>
